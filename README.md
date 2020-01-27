@@ -1,10 +1,10 @@
 # Project_1-King_County_House_Prices
-This is the first project created during the Data Science Bootcamp by neuefische Gmbh, Hamburg, Germany
+This is the first project created during the Data Science Bootcamp by neuefische Gmbh, Hamburg, Germany<br>
 
 <b>This repository contains:</b>
 - The dataset for the project
 
-- A Jupyter notebook with the following chapters:<br>
+- A Jupyter notebook with the following chapters:<br><br>
 &nbsp;&nbsp;&nbsp;1) Importing Python libraries and dataset:<br>
 &nbsp;&nbsp;&nbsp;2) Understanding the data:<br>
 &nbsp;&nbsp;&nbsp;3) Revising the data on basis of the insights from the previous step:<br>
