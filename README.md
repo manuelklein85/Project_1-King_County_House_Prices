@@ -17,7 +17,7 @@ This repository contains:
 <br>
 The task to work on was as follows:<br><br>
 
-For this project, you'll be working with the King County House Sales dataset.  The dataset can be found in the file "kc_house_data.csv", in this folder.
+For this project, you'll be working with the King County House Sales dataset.  The dataset can be found in the file "King_County_House_prices_dataset.csv", in this folder.
 
 The description of the column names can be found in the column_names.md file in this repository. 
 
