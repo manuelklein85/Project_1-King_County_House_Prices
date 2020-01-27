@@ -1,5 +1,5 @@
 # Project_1-King_County_House_Prices
-This is the first project created during the Data Science Bootcamp by neuefische Gmbh, Hamburg, Germany<br>
+This is the first project created during the Data Science Bootcamp by neuefische Gmbh, Hamburg, Germany<br><br>
 
 <b>This repository contains:</b>
 - The dataset for the project
