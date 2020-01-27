@@ -4,9 +4,9 @@ This is the first project created during the Data Science Bootcamp by neuefische
 <b>This repository contains:</b>
 - The dataset for the project
 
-- A Jupyter notebook with the following chapters:<br>
+- A Jupyter notebook with the following chapters:<br><br>
 &nbsp;&nbsp;1) Importing Python libraries and dataset:<br>
-&nbsp;&nbsp;2) Understanding the data:<br>
+&nbsp;2) Understanding the data:<br>
 &nbsp;&nbsp;3) Revising the data on basis of the insights from the previous step:<br>
 &nbsp;&nbsp;4) Identifying the relevant features:<br>
 &nbsp;&nbsp;5) Performing the linear regression:<br>
