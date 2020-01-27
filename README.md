@@ -26,11 +26,3 @@ The column names are NOT clear at times. In the real world we will run into simi
 Data Science Life Cycle Goals include Data cleaning, Data exploration and Data Visualization.
 
 Then model this dataset with a multivariate linear regression to predict the sale price of houses as accurately as possible.
-
-The Deliverables:
-
-1) A well documented Jupyter Notebook containing any code you've written for this project and comments explaining it. This work will need to be pushed to your GitHub repository in order to submit your project.
-
-2) An organized README.md file in the GitHub repository that describes the contents of the repository. This file should be the source of information for navigating through the repository.
-
-3) A short Keynote/PowerPoint/Google Slides presentation (delivered as a PDF export) giving a high-level overview of your methodology and recommendations for non-technical stakeholders. 
