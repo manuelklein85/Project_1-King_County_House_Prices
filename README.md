@@ -2,30 +2,35 @@
 This is the first project that was created within the scope of the Data Science Bootcamp by neuefische Gmbh, Hamburg, Germany
 
 This repository contains:
+- The dataset for the project
 
-    A Jupyter notebook with the following chapters:
-    Importing Python libraries and dataset
-    Understanding the data
-    Revising the data on basis of the insights from the previous step
-    Identifying the relevant features
-    Performing the linear regression
-    Conclusions / Recommendations
-    Outlook / Next steps
+- A Jupyter notebook with the following chapters:
+    1. Importing Python libraries and dataset
+    2. Understanding the data
+    3. Revising the data on basis of the insights from the previous step
+    4. Identifying the relevant features
+    5. Performing the linear regression
+    6. Conclusions / Recommendations
+    7. Outlook / Next steps
+    
+- A business presentation for the management
+<br>
+The task to work on was as follows:<br><br>
 
-    The business presentation for the management
+For this project, you'll be working with the King County House Sales dataset.  The dataset can be found in the file "kc_house_data.csv", in this folder.
 
+The description of the column names can be found in the column_names.md file in this repository. 
 
-The task to work on was as follows:
+The column names are NOT clear at times. In the real world we will run into similar challenges. We would then go ask our business stakeholders for more information. In this case, let us assume our business stakeholder who would give us information, left the company. Meaning we would have to identify and look up what each column names might actually mean.  
 
-In recent years, the range of funding options for projects created by individuals and small companies has expanded considerably. In addition to savings, bank loans, friends & family funding and other traditional options, crowdfunding has become a popular and readily available alternative.
+Data Science Life Cycle Goals include Data cleaning, Data exploration and Data Visualization.
 
-Kickstarter, founded in 2009, is one particularly well-known and popular crowdfunding platform. It has an all-or-nothing funding model, whereby a project is only funded if it meets its goal amount; otherwise no money is given by backers to a project. A huge variety of factors contribute to the success or failure of a project — in general, and also on Kickstarter. Some of these are able to be quantified or categorized, which allows for the construction of a model to attempt to predict whether a project will succeed or not. The aim of this project is to construct such a model and also to analyse Kickstarter project data more generally, in order to help potential project creators assess whether or not Kickstarter is a good funding option for them, and what their chances of success are.
+Then model this dataset with a multivariate linear regression to predict the sale price of houses as accurately as possible.
 
+The Deliverables:
 
-    Importing Python libraries and dataset
-    Understanding the data
-    Revising the data on basis of the insights from the previous step
-    Identifying the relevant features
-    Performing the linear regression
-    Conclusions / Recommendations
-    Outlook / Next steps
+1) A well documented Jupyter Notebook containing any code you've written for this project and comments explaining it. This work will need to be pushed to your GitHub repository in order to submit your project.
+
+2) An organized README.md file in the GitHub repository that describes the contents of the repository. This file should be the source of information for navigating through the repository.
+
+3) A short Keynote/PowerPoint/Google Slides presentation (delivered as a PDF export) giving a high-level overview of your methodology and recommendations for non-technical stakeholders. 
