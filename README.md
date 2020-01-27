@@ -1,12 +1,12 @@
 # Project_1-King_County_House_Prices
-This is the first project that was created within the scope of the Data Science Bootcamp by neuefische Gmbh, Hamburg, Germany
+This is the first project created during the Data Science Bootcamp by neuefische Gmbh, Hamburg, Germany
 
 <b>This repository contains:</b>
 - The dataset for the project
 
 - A Jupyter notebook with the following chapters:
-    1) Importing Python libraries and dataset
-    2) Understanding the data
+1) Importing Python libraries and dataset
+2) Understanding the data
     3. Revising the data on basis of the insights from the previous step
     4. Identifying the relevant features
     5. Performing the linear regression
