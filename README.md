@@ -5,7 +5,7 @@ This is the first project created during the Data Science Bootcamp by neuefische
 - The dataset for the project
 
 - A Jupyter notebook with the following chapters:
-<\t>1) Importing Python libraries and dataset
+&nbsp;1) Importing Python libraries and dataset
 \t2) Understanding the data
     3. Revising the data on basis of the insights from the previous step
     4. Identifying the relevant features
