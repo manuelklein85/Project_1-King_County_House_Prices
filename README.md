@@ -15,7 +15,7 @@ This repository contains:
     
 - A business presentation for the management
 <br>
-The task to work on was as follows:<br><br>
+## The task to work on was as follows:<br><br>
 
 For this project, you'll be working with the King County House Sales dataset.  The dataset can be found in the file "King_County_House_prices_dataset.csv", in this folder.
 
