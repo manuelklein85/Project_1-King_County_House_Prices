@@ -5,13 +5,13 @@ This is the first project created during the Data Science Bootcamp by neuefische
 - The dataset for the project
 
 - A Jupyter notebook with the following chapters:<br>
-&nbsp;1) Importing Python libraries and dataset:<br>
-&nbsp;2) Understanding the data:<br>
-&nbsp;3) Revising the data on basis of the insights from the previous step:<br>
-&nbsp;4) Identifying the relevant features:<br>
-&nbsp;5) Performing the linear regression:<br>
-&nbsp;6) Conclusions / Recommendations:<br>
-&nbsp;7) Outlook / Next steps:<br>
+&nbsp;&nbsp;1) Importing Python libraries and dataset:<br>
+&nbsp;&nbsp;2) Understanding the data:<br>
+&nbsp;&nbsp;3) Revising the data on basis of the insights from the previous step:<br>
+&nbsp;&nbsp;4) Identifying the relevant features:<br>
+&nbsp;&nbsp;5) Performing the linear regression:<br>
+&nbsp;&nbsp;6) Conclusions / Recommendations:<br>
+&nbsp;&nbsp;7) Outlook / Next steps:<br>
     
 - A business presentation for the management
 <br>
